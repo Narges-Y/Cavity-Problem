@@ -30,3 +30,5 @@ $$ \Delta x = \frac{L}{n - 1} \rightarrow x(i) = (i - 1) \Delta x $$
 $$ \Delta y = \frac{H}{m - 1} \rightarrow y(j) = (j - 1) \Delta y $$
 
 $$ \beta = \frac{\Delta x}{\Delta y} $$
+
+## Results 
