@@ -31,7 +31,7 @@ $$ \Delta y = \frac{H}{m - 1} \rightarrow y(j) = (j - 1) \Delta y $$
 
 $$ \beta = \frac{\Delta x}{\Delta y} $$
 
-## Results (Contours)
+## Results
 
 #### Omega Contour (ω)
 ![Fortran_L_20241103_144010_3](https://github.com/user-attachments/assets/70c3438c-9891-4394-9ff1-cb9e5af46998)
