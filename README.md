@@ -12,7 +12,7 @@ $$ \omega = - (\frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{\pa
 
 $$ \frac{\partial \omega}{\partial t} + u \frac{\partial \omega}{\partial x} + v \frac{\partial \omega}{\partial y} = \nu \left( \frac{\partial^2 \omega}{\partial x^2} + \frac{\partial^2 \omega}{\partial y^2} \right) $$
 
-$$ \textit{Steady} \rightarrow u \left( \frac{\partial \omega}{\partial x} \right) + v \left( \frac{\partial \omega}{\partial y} \right) = \nu \left( \frac{\partial^2 \omega}{\partial x^2} + \frac{\partial^2 \omega}{\partial y^2} \right) $$
+*Steady* → $$ u\left(\frac{\partial \omega}{\partial x}\right) + v\left(\frac{\partial \omega}{\partial y}\right) = \nu\left(\frac{\partial^2 \omega}{\partial x^2} + \frac{\partial^2 \omega}{\partial y^2}\right) $$
 
 $$ u = \frac{\partial \psi}{\partial y} , \quad v = -\frac{\partial \psi}{\partial x} $$
 
