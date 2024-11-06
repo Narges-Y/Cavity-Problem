@@ -18,5 +18,4 @@ $$ u = \frac{\partial \psi}{\partial y}, \quad v = -\frac{\partial \psi}{\partia
 
 ## Boundary Conditions
 
-$$ v_{\text{tangential}} = v_{\text{wall}} $$
- , $$ v_{\text{normal}} = 0 $$
+$$ v_{\text{tangential}} = v_{\text{wall}} $$ , $$ v_{\text{normal}} = 0 $$
