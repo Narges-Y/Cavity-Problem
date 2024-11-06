@@ -37,3 +37,4 @@ $$ \beta = \frac{\Delta x}{\Delta y} $$
 ![Fortran_L_20241103_144010_3](https://github.com/user-attachments/assets/70c3438c-9891-4394-9ff1-cb9e5af46998)
 
 #### Psi Contour (Ψ)
+![Fortran_L_20241103_144010_2](https://github.com/user-attachments/assets/d672b5f4-22bf-43f0-8082-fddd012a2d6b)
