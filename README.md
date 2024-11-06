@@ -38,3 +38,6 @@ $$ \beta = \frac{\Delta x}{\Delta y} $$
 
 #### Psi Contour (Ψ)
 ![Fortran_L_20241103_144010_2](https://github.com/user-attachments/assets/d672b5f4-22bf-43f0-8082-fddd012a2d6b)
+
+#### Velocity Contours (u,v)
+
