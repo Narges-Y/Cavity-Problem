@@ -23,3 +23,10 @@ $$ v_{\text{tangential}} = v_{\text{wall}} $$ $$ v_{\text{normal}} = 0 $$
 $$ \frac{\partial v_{\text{normal}}}{\partial x_{\text{tangential}}} = 0 $$
 
 ![b9SJPXR0T8CSKWMDLeQ7AXKB(1)](https://github.com/user-attachments/assets/1f809050-634b-45a9-a2bc-1a9d10fbe81d)
+
+## Grid Generation
+
+$$ \Delta x = \frac{L}{n - 1} \rightarrow x(i) = (i - 1) \Delta x $$
+$$ \Delta y = \frac{H}{m - 1} \rightarrow y(j) = (j - 1) \Delta y $$
+
+$$ \beta = \frac{\Delta x}{\Delta y} $$
