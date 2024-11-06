@@ -16,7 +16,7 @@ _Steady State_
 
 $$ u\left(\frac{\partial \omega}{\partial x}\right) + v\left(\frac{\partial \omega}{\partial y}\right) = \nu\left(\frac{\partial^2 \omega}{\partial x^2} + \frac{\partial^2 \omega}{\partial y^2}\right) $$
 
-$$ u = \frac{\partial \psi}{\partial y} , \quad v = -\frac{\partial \psi}{\partial x} $$
+$$ u = \frac{\partial \psi}{\partial y}  \quad v = -\frac{\partial \psi}{\partial x} $$
 
 ## Boundary Conditions
 
