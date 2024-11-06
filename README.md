@@ -32,3 +32,5 @@ $$ \Delta y = \frac{H}{m - 1} \rightarrow y(j) = (j - 1) \Delta y $$
 $$ \beta = \frac{\Delta x}{\Delta y} $$
 
 ## Results (Contours)
+
+#### 𝜔
