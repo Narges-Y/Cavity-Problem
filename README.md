@@ -8,4 +8,4 @@ In this study, the Navier-Stokes equations are solved for a fluid within a squar
 
 ## Equations
 
-$$ \omega = -\frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{\partial y^2} $$
+$$ \omega = - (\frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{\partial y^2}) $$
