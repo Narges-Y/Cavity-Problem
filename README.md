@@ -17,3 +17,5 @@ $$ \text{Steady} \rightarrow u \left( \frac{\partial \omega}{\partial x} \right)
 $$ u = \frac{\partial \psi}{\partial y}, \quad v = -\frac{\partial \psi}{\partial x} $$
 
 ## Boundary Conditions
+
+$$ v_{\text{tangential}} = v_{\text{wall}} $$
